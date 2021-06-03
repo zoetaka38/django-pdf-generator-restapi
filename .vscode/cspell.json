@@ -1,0 +1,25 @@
+{
+  "version": "0.1",
+  "language": "en",
+  "words": [
+    // lib
+    "boto",
+    "botocore",
+    "itertools",
+    "mypy",
+    "numpy",
+    "oidc",
+    "pylint",
+    "pytz",
+    "redoc",
+    // product
+    "consts",
+    "dtmf",
+    "isviz",
+    "miitel",
+    "sfdc",
+    "vform",
+    ""
+  ],
+  "flagWords": []
+}

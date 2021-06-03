@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+black = "*"
+mypy = "*"
+
+[packages]
+django = "==3.0.7"
+psycopg2 = "*"
+reportlab = "==3.5.67"
+djangorestframework = "==3.12.2"
+django-cors-headers = "==3.7.0"
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
